@@ -1,6 +1,6 @@
 package weeb;
-
-public class veebipealkiri implements veebisvaadatav {
+//eksamiks
+public class veebipealkiri extends veebielement {
 	int tase;
 	veebitekst sisu;
 
@@ -13,6 +13,6 @@ public class veebipealkiri implements veebisvaadatav {
 	}
 
 	public String html() {
-		return "<h" + tase + ">" + sisu.html() + "</h" + tase + ">";
+		return "<h" + tase +atr()+ ">" + sisu.html() + "</h" + tase + ">";
 	}
 }

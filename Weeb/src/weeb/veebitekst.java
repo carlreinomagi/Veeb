@@ -1,5 +1,5 @@
 package weeb;
-
+//eksamiks
 public class veebitekst implements veebisvaadatav {
 	protected String sisu;
 	public veebitekst(String sisu){

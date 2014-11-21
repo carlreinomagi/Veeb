@@ -1,5 +1,5 @@
 package weeb;
-
+//eksamiks
 public class proov3 {
 
 	public static void main(String[] args) {

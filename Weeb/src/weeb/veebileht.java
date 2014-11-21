@@ -1,5 +1,5 @@
 package weeb;
-
+//eksamiks
 public class veebileht {
 	protected String pealkiri;
 	protected veebisvaadatav sisu;
